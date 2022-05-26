@@ -1,5 +1,6 @@
 
-# REACT PROJECT TEMPLATE - PRETTIER + ESLINT + ROUTES
+# REACT PROJECT TEMPLATE
+## PRETTIER + ESLINT + ROUTES
 
 A preconfigured project with linting, formatting and rounting capabilities using Typescript superset.
 
