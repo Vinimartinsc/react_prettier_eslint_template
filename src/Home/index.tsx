@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function Home() {
   return (
     <>
-      Home
+      Welcome Home
       <nav>
         <Link to="/">Home</Link>
       </nav>
