@@ -1,7 +1,7 @@
 
 # REACT + PRETTIER + ESLINT + ROUTES
 
-A preconfigured project with linting, formatting and rounting capabilities using Typescript superset.
+A preconfigured project with linting, formatting and routing capabilities using Typescript superset.
 
 ### Installing 
 ```
